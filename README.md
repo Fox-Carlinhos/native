@@ -16,6 +16,13 @@
  - Axios
  - React Navigation
  - Expo Fonts
+ 
+##Improve
+ - Use Debounce to improve performance on re-render.
+ - Add loading to components.
+ - On scaling break the pages on more components.
+ - Treat errors.
+ - Implements unit tests.
 
 ## Available Scripts
 
