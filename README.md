@@ -17,7 +17,7 @@
  - React Navigation
  - Expo Fonts
  
-##Improve
+## Improve
  - Use Debounce to improve performance on re-render.
  - Add loading to components.
  - On scaling break the pages on more components.
